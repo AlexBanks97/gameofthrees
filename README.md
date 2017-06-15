@@ -1,5 +1,5 @@
 # Game of Threes
-## Daily Programming Challenge
+## Daily Programming Challenge #1
 
 
 Back in middle school, I had a peculiar way of dealing with super boring classes. I would take my handy pocket calculator and play a "Game of Threes". Here's how you play it:
